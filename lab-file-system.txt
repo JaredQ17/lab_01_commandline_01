@@ -31,8 +31,7 @@ If it doesn't start at #1 again, or ask for help before moving on!
 
 Copy and paste the output of pwd below.
 ----------
-
-
+/Users/student/desktop/mtec1002 
 
 ==========
 5. Type:
@@ -42,8 +41,7 @@ $ ls
 
 Copy and paste the output below.
 ----------
-
-
+animals
 
 ==========
 6. Type:
@@ -53,8 +51,7 @@ $ ls
 
 Copy and paste the output below.
 ----------
-
-
+animals food
 
 ==========
 7. Type:
@@ -64,8 +61,7 @@ $ ls
 
 Copy and paste the output below.
 ----------
-
-
+animals	foo	food
 
 ==========
 8. Type:
@@ -75,8 +71,7 @@ $ pwd
 
 Copy and paste the output below.
 ----------
-
-
+/Users/student/desktop/mtec1002/foo/bar/baz/qux
 
 ==========
 9. Type:
@@ -86,8 +81,7 @@ $ pwd
 
 Copy and paste the output below.
 ----------
-
-
+/Users/student/desktop/mtec1002/foo/bar
 
 ==========
 10. Type:
@@ -97,8 +91,7 @@ $ pwd
 
 Copy and paste the output below.
 ----------
-
-
+/Users/student/desktop/mtec1002/foo/bar/baz/qux
  
 ==========
 11. Type:
@@ -108,8 +101,7 @@ $ pwd
 
 Copy and paste the output below.
 ----------
-
-
+/Users/student/desktop/mtec1002
 
 ==========
 12. Type:
@@ -120,8 +112,8 @@ $ ls -l
 
 Copy and paste the first two lines from the output into the space below.
 ----------
-
-
+total 0
+drwxr-xr-x  3 student  staff  102 Aug 28 15:33 foo
 
 ==========
 13. Type:
@@ -131,8 +123,7 @@ $ pwd
 
 Copy and paste the output into the space below.
 ----------
-
-
+/Users/student
 
 ==========
 14. Type:
@@ -142,8 +133,7 @@ $ pwd
 
 Copy and paste the output into the space below.
 ----------
-
-
+/Volumes
 
 ==========
 15. Type:
@@ -154,7 +144,7 @@ $ pwd
 Copy and paste the output into the space below.
 ----------
 
-
+/Volumes
 
 ==========
 15. Type:
@@ -164,8 +154,7 @@ $ pwd
 
 Copy and paste the output into the space below.
 ----------
-
-
+/Volumes
 
 ==========
 16. Type:
@@ -174,13 +163,13 @@ $ hostname
 
 Copy and paste the output into the space below.
 ----------
-
-
+ent-v314-012.local
+ent-v314-012:Volumes student$ 
 
 ==========
 17a. Make sure you're back in your mtec1002, which should be in your home folder.  What command would you use to find out if you're in the right folder?  Write the command below, then run it.
 ----------
-
+I would type pwd.
 
 
 ==========
@@ -203,7 +192,7 @@ lemon
 
 Use only one command to make all of these new directories.  Write what command you used below:
 ----------
-
+I used the mkdir command.
 
 
 ==========
@@ -211,7 +200,7 @@ Use only one command to make all of these new directories.  Write what command y
 
 Write the command you used to create the directory below:
 ----------
-
+I used the mkdir command.
 
 
 ==========
@@ -219,7 +208,7 @@ Write the command you used to create the directory below:
 
 What is the modified date of the aardvark directory?
 ----------
-
+August 28, 2017 4:05 pm.
 
 
 ==========
@@ -231,7 +220,7 @@ What is the modified date of the aardvark directory?
 
 What command did you use?
 ----------
-
+I used the mkdir command.
 
 
 ==========
@@ -239,7 +228,7 @@ What command did you use?
 
 What command did you use?
 ----------
-
+I used the cd command.
 
 
 ==========
@@ -247,44 +236,43 @@ What command did you use?
 
 What command did you use?
 ----------
-
+I used the cd... command.
 
 ==========
 24. What command is used to delete empty directories?
 ----------
-
+The rmdir command.
 
 
 ==========
 25. What command is used to print out your current working directory?
 ----------
-
+The ls command.
 
 
 ==========
 26. What flag do I pass to ls to print out all files?
 ----------
-
+The -a flag.
 
 
 ==========
 27. What's the shortcut for home directory?
 ----------
-
+/Users/student
 
 
 ==========
 28. What's a pathname?
 ----------
-
-
+A pathname is the general form of the name of the file or directory.
 
 ==========
 29. What's a directory?
 ----------
-
-
+A directory is a cataloging structure on a file system that references other files and direct
 
 ==========
 30. What's the *absolute* path (full path, starting at root) to your user's Downloads directory?
 ----------
+/users/student/downloads
